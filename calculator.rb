@@ -1,3 +1,3 @@
 first_number = #{variable}
-second_number
+second_number = 20
 
